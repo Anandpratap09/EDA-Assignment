@@ -1,1 +1,2 @@
-# EDA-Assignment
+## EDA-Assignment
+In order to determine whether to approve the loan, reduce its amount, charge riskier applicants a higher interest rate, etc., this case study looks for trends that indicate whether a client is having trouble completing their payments. This will guarantee that only loan applicants who can repay the loan will be allowed. This case study's goal is to find such applications by using EDA.In other words, the organisation aims to comprehend the traits, also known as the driving factors (or driver variables) behind loan default, that are accurate predictors of default. The company can utilise this information for portfolio management and risk analysis.
